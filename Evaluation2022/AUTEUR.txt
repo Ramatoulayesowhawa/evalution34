@@ -1,0 +1,2 @@
+RAMATOULAYE=prenom
+SOW=nom
